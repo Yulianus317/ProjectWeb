@@ -42,14 +42,14 @@ if(!isset($_SESSION["login"])) {
                 <p>220211060365</p>
             </div>
             <div class="team-card">
-                <img src="img/Designer/cipo.jpg" alt="">
-                <p>Nael</p>
-                <p>210211060021</p>
+                <img src="Kelompok/WhatsApp Image 2024-06-06 at 20.16.53_d47695d8.jpg" alt="">
+                <p>Nathanael Alexandro Pangindahen</p>
+                <p>2220211060201</p>
             </div>
             <div class="team-card">
-                <img src="img/Designer/osin.jpg" alt="">
-                <p>Nove</p>
-                <p>210211060172</p>
+                <img src="Kelompok/IMG_8363.jpg" alt="">
+                <p>Novenia Theresia Wowor</p>
+                <p>220211060238</p>
             </div>
         </div>
         <!-- Repeat the above section for each team member -->
