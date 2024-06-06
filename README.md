@@ -1,12 +1,10 @@
 # Web Final Project
 
-Kelas D - Kelompok 5
-
 Anggota Kelompok : 
 
-> 1. Peter Gabriel Sompotan (210211060245)
-> 2. Try Setiawan (210211060199)
-> 3. Christy Potabuga (210211060021)
-> 4. Hosiana Wuwungan (210211060172)
-> 5. Brenda Sangian (210211060126)
+> 1. Yulianus Henrij (220211060190)
+> 2. Lordy Lawrence Parihala (220211060365)
+> 3. Nathanael Alexandro Pangindahen (220211060201)
+> 4. ovenia Theresia Wowor (220211060238)
+
  
