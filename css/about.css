@@ -1,0 +1,100 @@
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+  }
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #5a3054;
+}
+
+header {
+	background-color: #e8cf94
+}
+
+#icon-shop{
+  position: absolute;
+  max-width: 50px;
+  padding: 15px;
+}
+
+#icon-logout {
+  position: relative;
+  width: 22px;
+  float: right;
+  padding: 12px;
+  cursor: pointer;
+}
+
+
+#icon-user {
+  position: relative;
+  float: right;
+  padding-top: 14px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+}
+
+nav li {
+	float: right;
+}
+
+li a {
+	font-weight: bold;
+  display: block;
+  color: #5a3054;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+main {
+    display: flex;
+    padding: 20px;
+    
+}
+
+/* Team Cards */
+.team-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+  }
+  
+  .team-card {
+    place-items: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .team-card img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+  }
+  
+  .team-card p {
+    margin: 0.5rem 0;
+    font-size: 1.2rem;
+    color: #e8cf94;
+  }
+
+
+
